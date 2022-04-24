@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gvasan07
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning Computer Science Engineering and also a diploma in Data Science
-- 💞️ I’m looking to collaborate on any projects that'll hel me in widening my knowledge in AI & ML 
+- 💞️ I’m looking to collaborate on any projects that'll help me in widening my knowledge in AI & ML 
 - 📫 How to reach me @ gvasan859@gmail.com @ linkedin.com/in/girivasan-r-64285218ap
 
 <!---
